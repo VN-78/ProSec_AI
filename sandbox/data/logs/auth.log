@@ -11,3 +11,4 @@ Failed password for root from 172.17.0.1 port 50388 ssh2
 Failed password for root from 172.17.0.1 port 50388 ssh2
 Failed password for root from 172.17.0.1 port 50388 ssh2
 Connection closed by authenticating user root 172.17.0.1 port 50388 [preauth]
+Received signal 15; terminating.
